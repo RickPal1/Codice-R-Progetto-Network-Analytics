@@ -50,7 +50,7 @@ dimensioni_nodi <- gradi + 1
 layout <- layout_with_fr(rete)
 
 
-# VisualizzO i risultati
+# Visualizzo i risultati
 plot(rete, vertex.color = ifelse(risultati == 1, "red", "gray"), vertex.label = NA, 
      vertex.size = dimensioni_nodi, layout = layout)
 
