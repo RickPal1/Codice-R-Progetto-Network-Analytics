@@ -1,0 +1,451 @@
+Source,Target,Type,Id,Label,Weight,key
+R2-D2,R2-D2,Undirected,0,,17,0
+R2-D2,Chewbacca,Undirected,1,,2,0
+R2-D2,Obi-Wan,Undirected,2,,28,0
+R2-D2,Padme (Queen Amidala),Undirected,3,,24,0
+R2-D2,Qui-Gon,Undirected,4,,13,0
+R2-D2,Anakin,Undirected,5,,30,0
+R2-D2,Watto,Undirected,6,,3,0
+R2-D2,C-3PO,Undirected,7,,55,0
+R2-D2,Kitster,Undirected,8,,2,0
+R2-D2,Jabba,Undirected,9,,4,0
+R2-D2,Emperor (Palpatine),Undirected,10,,5,0
+R2-D2,Captain Typho,Undirected,11,,1,0
+R2-D2,Beru,Undirected,12,,1,0
+R2-D2,Owen,Undirected,13,,2,0
+R2-D2,Bail Organa,Undirected,14,,3,0
+R2-D2,Yoda,Undirected,15,,5,0
+R2-D2,Luke,Undirected,16,,34,0
+R2-D2,Leia,Undirected,17,,23,0
+R2-D2,Captain Antille,Undirected,18,,1,0
+R2-D2,Biggs,Undirected,19,,1,0
+R2-D2,Darth Vader,Undirected,20,,2,0
+R2-D2,Han,Undirected,21,,18,0
+R2-D2,Lando,Undirected,22,,5,0
+Chewbacca,Chewbacca,Undirected,23,,8,0
+Chewbacca,Obi-Wan,Undirected,24,,6,0
+Chewbacca,C-3PO,Undirected,25,,39,0
+Chewbacca,Luke,Undirected,26,,32,0
+Chewbacca,Han,Undirected,27,,77,0
+Chewbacca,Jabba,Undirected,28,,3,0
+Chewbacca,Leia,Undirected,29,,48,0
+Chewbacca,Darth Vader,Undirected,30,,2,0
+Chewbacca,Rieekan,Undirected,31,,1,0
+Chewbacca,Lando,Undirected,32,,20,0
+Chewbacca,Boba Fett,Undirected,33,,2,0
+Chewbacca,Finn,Undirected,34,,20,0
+Chewbacca,Rey,Undirected,35,,13,0
+Chewbacca,Bala-Tik,Undirected,36,,1,0
+Chewbacca,Maz,Undirected,37,,2,0
+Chewbacca,Poe,Undirected,38,,2,0
+Chewbacca,Kylo Ren,Undirected,39,,3,0
+Chewbacca,Captain Phasma,Undirected,40,,1,0
+BB-8,Poe,Undirected,41,,8,0
+BB-8,Lor San Tekka,Undirected,42,,2,0
+BB-8,Rey,Undirected,43,,17,0
+BB-8,Unkar Plutt,Undirected,44,,1,0
+BB-8,Finn,Undirected,45,,15,0
+BB-8,Han,Undirected,46,,9,0
+BB-8,Bala-Tik,Undirected,47,,1,0
+BB-8,Maz,Undirected,48,,3,0
+BB-8,Leia,Undirected,49,,3,0
+BB-8,C-3PO,Undirected,50,,3,0
+Qui-Gon,Nute Gunray,Undirected,51,,1,0
+Qui-Gon,TC-14,Undirected,52,,1,0
+Qui-Gon,Obi-Wan,Undirected,53,,26,0
+Qui-Gon,Jar Jar,Undirected,54,,22,0
+Qui-Gon,Boss Nass,Undirected,55,,2,0
+Qui-Gon,Sio Bibble,Undirected,56,,2,0
+Qui-Gon,Captain Panaka,Undirected,57,,9,0
+Qui-Gon,Padme (Queen Amidala),Undirected,58,,16,0
+Qui-Gon,Ric Olie,Undirected,59,,2,0
+Qui-Gon,Watto,Undirected,60,,6,0
+Qui-Gon,Anakin,Undirected,61,,22,0
+Qui-Gon,Sebulba,Undirected,62,,2,0
+Qui-Gon,Jira,Undirected,63,,2,0
+Qui-Gon,Shmi,Undirected,64,,8,0
+Qui-Gon,Kitster,Undirected,65,,2,0
+Qui-Gon,Wald,Undirected,66,,2,0
+Qui-Gon,C-3PO,Undirected,67,,1,0
+Qui-Gon,Jabba,Undirected,68,,1,0
+Qui-Gon,Greedo,Undirected,69,,1,0
+Qui-Gon,Emperor (Palpatine),Undirected,70,,1,0
+Qui-Gon,Valorum,Undirected,71,,1,0
+Qui-Gon,Mace Windu,Undirected,72,,2,0
+Qui-Gon,Ki-Adi-Mundi,Undirected,73,,2,0
+Qui-Gon,Yoda,Undirected,74,,3,0
+Qui-Gon,Rabe,Undirected,75,,1,0
+Qui-Gon,Bail Organa,Undirected,76,,1,0
+Nute Gunray,TC-14,Undirected,77,,1,0
+Nute Gunray,Dofine,Undirected,78,,1,0
+Nute Gunray,Rune,Undirected,79,,8,0
+Nute Gunray,Rune,Undirected,80,,1,0
+Nute Gunray,Emperor (Palpatine),Undirected,81,,6,0
+Nute Gunray,Sio Bibble,Undirected,82,,2,0
+Nute Gunray,Darth Maul,Undirected,83,,3,0
+Nute Gunray,General Ceel,Undirected,84,,1,0
+Nute Gunray,Padme (Queen Amidala),Undirected,85,,2,0
+Nute Gunray,Sun Rit,Undirected,86,,2,0
+Nute Gunray,Poggle,Undirected,87,,2,0
+Nute Gunray,Obi-Wan,Undirected,88,,1,0
+Nute Gunray,Anakin,Undirected,89,,1,0
+Nute Gunray,Count Dooku,Undirected,90,,1,0
+Nute Gunray,General Grievous,Undirected,91,,1,0
+PK-4,TC-14,Undirected,92,,1,0
+PK-4,Obi-Wan,Undirected,93,,1,0
+TC-14,Obi-Wan,Undirected,94,,1,0
+TC-14,Dofine,Undirected,95,,1,0
+Obi-Wan,Jar Jar,Undirected,96,,15,0
+Obi-Wan,Boss Nass,Undirected,97,,2,0
+Obi-Wan,Captain Panaka,Undirected,98,,7,0
+Obi-Wan,Ric Olie,Undirected,99,,3,0
+Obi-Wan,Sio Bibble,Undirected,100,,1,0
+Obi-Wan,Anakin,Undirected,101,,46,0
+Obi-Wan,Shmi,Undirected,102,,1,0
+Obi-Wan,Yoda,Undirected,103,,20,0
+Obi-Wan,Mace Windu,Undirected,104,,9,0
+Obi-Wan,Ki-Adi-Mundi,Undirected,105,,1,0
+Obi-Wan,Padme (Queen Amidala),Undirected,106,,9,0
+Obi-Wan,Captain Typho,Undirected,107,,2,0
+Obi-Wan,Taun We,Undirected,108,,5,0
+Obi-Wan,Lama Su,Undirected,109,,6,0
+Obi-Wan,Boba Fett,Undirected,110,,1,0
+Obi-Wan,Jango Fett,Undirected,111,,1,0
+Obi-Wan,Bail Organa,Undirected,112,,8,0
+Obi-Wan,Emperor (Palpatine),Undirected,113,,5,0
+Obi-Wan,Senator Ask Aak,Undirected,114,,1,0
+Obi-Wan,Sun Rit,Undirected,115,,1,0
+Obi-Wan,Poggle,Undirected,116,,1,0
+Obi-Wan,Count Dooku,Undirected,117,,3,0
+Obi-Wan,Odd Ball,Undirected,118,,2,0
+Obi-Wan,General Grievous,Undirected,119,,2,0
+Obi-Wan,C-3PO,Undirected,120,,9,0
+Obi-Wan,Clone Commander Cody,Undirected,121,,2,0
+Obi-Wan,Tion Medon,Undirected,122,,1,0
+Obi-Wan,Luke,Undirected,123,,22,0
+Obi-Wan,Leia,Undirected,124,,1,0
+Obi-Wan,Han,Undirected,125,,10,0
+Obi-Wan,Darth Vader,Undirected,126,,1,0
+Dofine,Rune,Undirected,127,,1,0
+Rune,Rune,Undirected,128,,2,0
+Rune,Emperor (Palpatine),Undirected,129,,3,0
+Rune,Darth Maul,Undirected,130,,1,0
+Emperor (Palpatine),Captain Panaka,Undirected,131,,3,0
+Emperor (Palpatine),Sio Bibble,Undirected,132,,1,0
+Emperor (Palpatine),Darth Maul,Undirected,133,,3,0
+Emperor (Palpatine),Valorum,Undirected,134,,2,0
+Emperor (Palpatine),Sio Bibble,Undirected,135,,5,0
+Emperor (Palpatine),Bail Organa,Undirected,136,,6,0
+Emperor (Palpatine),General Ceel,Undirected,137,,1,0
+Emperor (Palpatine),Padme (Queen Amidala),Undirected,138,,5,0
+Emperor (Palpatine),Senator Ask Aak,Undirected,139,,2,0
+Emperor (Palpatine),Orn Free Taa,Undirected,140,,2,0
+Emperor (Palpatine),Mace Windu,Undirected,141,,3,0
+Emperor (Palpatine),Yoda,Undirected,142,,2,0
+Emperor (Palpatine),Ki-Adi-Mundi,Undirected,143,,1,0
+Emperor (Palpatine),Count Dooku,Undirected,144,,2,0
+Emperor (Palpatine),Anakin,Undirected,145,,14,0
+Emperor (Palpatine),C-3PO,Undirected,146,,2,0
+Emperor (Palpatine),Darth Vader,Undirected,147,,7,0
+Emperor (Palpatine),Luke,Undirected,148,,3,0
+Captain Panaka,Sio Bibble,Undirected,149,,3,0
+Captain Panaka,Jar Jar,Undirected,150,,7,0
+Captain Panaka,Padme (Queen Amidala),Undirected,151,,7,0
+Captain Panaka,Ric Olie,Undirected,152,,2,0
+Captain Panaka,Anakin,Undirected,153,,2,0
+Captain Panaka,Boss Nass,Undirected,154,,1,0
+Sio Bibble,Jar Jar,Undirected,155,,1,0
+Sio Bibble,Padme (Queen Amidala),Undirected,156,,1,0
+Sio Bibble,Anakin,Undirected,157,,1,0
+Jar Jar,Jar Jar,Undirected,158,,2,0
+Jar Jar,Boss Nass,Undirected,159,,2,0
+Jar Jar,Ric Olie,Undirected,160,,1,0
+Jar Jar,Padme (Queen Amidala),Undirected,161,,10,0
+Jar Jar,Sebulba,Undirected,162,,2,0
+Jar Jar,Anakin,Undirected,163,,12,0
+Jar Jar,Shmi,Undirected,164,,3,0
+Jar Jar,Kitster,Undirected,165,,1,0
+Jar Jar,Wald,Undirected,166,,1,0
+Jar Jar,Jabba,Undirected,167,,1,0
+Jar Jar,Fode/Beed,Undirected,168,,2,0
+Jar Jar,Valorum,Undirected,169,,1,0
+Jar Jar,General Ceel,Undirected,170,,1,0
+Jar Jar,Captain Typho,Undirected,171,,1,0
+Jar Jar,Bail Organa,Undirected,172,,1,0
+Jar Jar,Yoda,Undirected,173,,1,0
+Jar Jar,Mace Windu,Undirected,174,,1,0
+Jar Jar,Senator Ask Aak,Undirected,175,,1,0
+Jar Jar,Orn Free Taa,Undirected,176,,1,0
+Boss Nass,Padme (Queen Amidala),Undirected,177,,2,0
+Boss Nass,Anakin,Undirected,178,,1,0
+Padme (Queen Amidala),Watto,Undirected,179,,3,0
+Padme (Queen Amidala),Anakin,Undirected,180,,41,0
+Padme (Queen Amidala),Sebulba,Undirected,181,,2,0
+Padme (Queen Amidala),Jira,Undirected,182,,1,0
+Padme (Queen Amidala),Shmi,Undirected,183,,5,0
+Padme (Queen Amidala),C-3PO,Undirected,184,,12,0
+Padme (Queen Amidala),Kitster,Undirected,185,,1,0
+Padme (Queen Amidala),Jabba,Undirected,186,,1,0
+Padme (Queen Amidala),Fode/Beed,Undirected,187,,1,0
+Padme (Queen Amidala),Sola,Undirected,188,,1,0
+Padme (Queen Amidala),Jobal,Undirected,189,,1,0
+Padme (Queen Amidala),Ruwee,Undirected,190,,1,0
+Padme (Queen Amidala),Owen,Undirected,191,,4,0
+Padme (Queen Amidala),Beru,Undirected,192,,1,0
+Padme (Queen Amidala),Cliegg,Undirected,193,,2,0
+Padme (Queen Amidala),Mace Windu,Undirected,194,,2,0
+Padme (Queen Amidala),Count Dooku,Undirected,195,,3,0
+Padme (Queen Amidala),Sun Rit,Undirected,196,,1,0
+Padme (Queen Amidala),Poggle,Undirected,197,,1,0
+Padme (Queen Amidala),Yoda,Undirected,198,,1,0
+Padme (Queen Amidala),Bail Organa,Undirected,199,,5,0
+Padme (Queen Amidala),Fang Zar,Undirected,200,,2,0
+Padme (Queen Amidala),Mon Mothma,Undirected,201,,2,0
+Padme (Queen Amidala),Giddean Danu,Undirected,202,,1,0
+Padme (Queen Amidala),Captain Typho,Undirected,203,,2,0
+Ric Olie,Anakin,Undirected,204,,4,0
+Ric Olie,Bravo Two,Undirected,205,,4,0
+Ric Olie,Bravo Three,Undirected,206,,2,0
+Watto,Anakin,Undirected,207,,5,0
+Watto,C-3PO,Undirected,208,,1,0
+Watto,Kitster,Undirected,209,,1,0
+Anakin,Sebulba,Undirected,210,,2,0
+Anakin,Jira,Undirected,211,,2,0
+Anakin,Shmi,Undirected,212,,8,0
+Anakin,C-3PO,Undirected,213,,10,0
+Anakin,Kitster,Undirected,214,,3,0
+Anakin,Wald,Undirected,215,,2,0
+Anakin,Jabba,Undirected,216,,1,0
+Anakin,Greedo,Undirected,217,,1,0
+Anakin,Mace Windu,Undirected,218,,9,0
+Anakin,Ki-Adi-Mundi,Undirected,219,,2,0
+Anakin,Yoda,Undirected,220,,9,0
+Anakin,Rabe,Undirected,221,,1,0
+Anakin,Bravo Two,Undirected,222,,2,0
+Anakin,Bravo Three,Undirected,223,,1,0
+Anakin,Captain Typho,Undirected,224,,3,0
+Anakin,Sola,Undirected,225,,1,0
+Anakin,Jobal,Undirected,226,,1,0
+Anakin,Ruwee,Undirected,227,,3,0
+Anakin,Owen,Undirected,228,,3,0
+Anakin,Beru,Undirected,229,,1,0
+Anakin,Cliegg,Undirected,230,,2,0
+Anakin,Sun Rit,Undirected,231,,1,0
+Anakin,Poggle,Undirected,232,,1,0
+Anakin,Count Dooku,Undirected,233,,3,0
+Anakin,Odd Ball,Undirected,234,,2,0
+Anakin,General Grievous,Undirected,235,,1,0
+Anakin,Bail Organa,Undirected,236,,2,0
+Anakin,Clone Commander Cody,Undirected,237,,1,0
+Anakin,Darth Vader,Undirected,238,,1,0
+Anakin,Luke,Undirected,239,,1,0
+Sebulba,Shmi,Undirected,240,,1,0
+Sebulba,Jabba,Undirected,241,,1,0
+Shmi,Jabba,Undirected,242,,1,0
+Shmi,Kitster,Undirected,243,,1,0
+C-3PO,Kitster,Undirected,244,,1,0
+C-3PO,Owen,Undirected,245,,4,0
+C-3PO,Beru,Undirected,246,,3,0
+C-3PO,Cliegg,Undirected,247,,1,0
+C-3PO,Bail Organa,Undirected,248,,3,0
+C-3PO,Captain Typho,Undirected,249,,2,0
+C-3PO,Yoda,Undirected,250,,1,0
+C-3PO,Captain Antille,Undirected,251,,1,0
+C-3PO,Luke,Undirected,252,,29,0
+C-3PO,Leia,Undirected,253,,49,0
+C-3PO,Han,Undirected,254,,54,0
+C-3PO,Biggs,Undirected,255,,1,0
+C-3PO,Red Leader,Undirected,256,,1,0
+C-3PO,Derlin,Undirected,257,,1,0
+C-3PO,Rieekan,Undirected,258,,1,0
+C-3PO,Lando,Undirected,259,,8,0
+C-3PO,Boba Fett,Undirected,260,,1,0
+C-3PO,Darth Vader,Undirected,261,,1,0
+C-3PO,Bib Fortuna,Undirected,262,,2,0
+C-3PO,Jabba,Undirected,263,,3,0
+C-3PO,Boushh,Undirected,264,,2,0
+C-3PO,Mon Mothma,Undirected,265,,1,0
+C-3PO,Admiral Ackbar,Undirected,266,,2,0
+C-3PO,Poe,Undirected,267,,2,0
+C-3PO,Snap,Undirected,268,,1,0
+C-3PO,Finn,Undirected,269,,1,0
+C-3PO,Admiral Statura,Undirected,270,,2,0
+Darth Maul,General Ceel,Undirected,271,,1,0
+Kitster,Wald,Undirected,272,,1,0
+Wald,Greedo,Undirected,273,,1,0
+Fode/Beed,Jabba,Undirected,274,,1,0
+Jabba,Han,Undirected,275,,1,0
+Jabba,Luke,Undirected,276,,2,0
+Jabba,Boushh,Undirected,277,,1,0
+Jabba,Bib Fortuna,Undirected,278,,1,0
+Greedo,Han,Undirected,279,,1,0
+Valorum,Bail Organa,Undirected,280,,1,0
+Mace Windu,Ki-Adi-Mundi,Undirected,281,,4,0
+Mace Windu,Yoda,Undirected,282,,16,0
+Mace Windu,Rabe,Undirected,283,,1,0
+Mace Windu,Bail Organa,Undirected,284,,2,0
+Mace Windu,Senator Ask Aak,Undirected,285,,1,0
+Mace Windu,Count Dooku,Undirected,286,,2,0
+Mace Windu,Clone Commander Cody,Undirected,287,,1,0
+Ki-Adi-Mundi,Yoda,Undirected,288,,4,0
+Ki-Adi-Mundi,Rabe,Undirected,289,,1,0
+Ki-Adi-Mundi,Bail Organa,Undirected,290,,1,0
+Ki-Adi-Mundi,Plo Koon,Undirected,291,,1,0
+Yoda,Rabe,Undirected,292,,1,0
+Yoda,Bail Organa,Undirected,293,,8,0
+Yoda,Senator Ask Aak,Undirected,294,,1,0
+Yoda,Count Dooku,Undirected,295,,2,0
+Yoda,Clone Commander Gree,Undirected,296,,1,0
+Yoda,Clone Commander Cody,Undirected,297,,1,0
+Yoda,Luke,Undirected,298,,6,0
+Bail Organa,Senator Ask Aak,Undirected,299,,1,0
+Bail Organa,Fang Zar,Undirected,300,,2,0
+Bail Organa,Mon Mothma,Undirected,301,,2,0
+Bail Organa,Giddean Danu,Undirected,302,,1,0
+Bail Organa,Captain Antille,Undirected,303,,2,0
+Bravo Two,Bravo Three,Undirected,304,,2,0
+Senator Ask Aak,Orn Free Taa,Undirected,305,,1,0
+Sola,Jobal,Undirected,306,,2,0
+Sola,Ruwee,Undirected,307,,1,0
+Jobal,Ruwee,Undirected,308,,1,0
+Taun We,Lama Su,Undirected,309,,2,0
+Taun We,Boba Fett,Undirected,310,,2,0
+Taun We,Jango Fett,Undirected,311,,1,0
+Boba Fett,Jango Fett,Undirected,312,,3,0
+Boba Fett,Piett,Undirected,313,,1,0
+Boba Fett,Darth Vader,Undirected,314,,3,0
+Boba Fett,Lando,Undirected,315,,2,0
+Boba Fett,Han,Undirected,316,,1,0
+Boba Fett,Leia,Undirected,317,,1,0
+Jango Fett,Count Dooku,Undirected,318,,1,0
+Owen,Beru,Undirected,319,,4,0
+Owen,Cliegg,Undirected,320,,2,0
+Owen,Luke,Undirected,321,,3,0
+Beru,Cliegg,Undirected,322,,1,0
+Beru,Luke,Undirected,323,,3,0
+Beru,Leia,Undirected,324,,1,0
+Count Dooku,Sun Rit,Undirected,325,,1,0
+Count Dooku,Poggle,Undirected,326,,1,0
+Sun Rit,Poggle,Undirected,327,,2,0
+Fang Zar,Mon Mothma,Undirected,328,,2,0
+Fang Zar,Giddean Danu,Undirected,329,,1,0
+Mon Mothma,Giddean Danu,Undirected,330,,1,0
+Mon Mothma,Han,Undirected,331,,1,0
+Mon Mothma,Lando,Undirected,332,,1,0
+Mon Mothma,Admiral Ackbar,Undirected,333,,1,0
+Mon Mothma,Leia,Undirected,334,,1,0
+Mon Mothma,Luke,Undirected,335,,1,0
+Darth Vader,Leia,Undirected,336,,2,0
+Darth Vader,Motti,Undirected,337,,1,0
+Darth Vader,Tarkin,Undirected,338,,7,0
+Darth Vader,Piett,Undirected,339,,8,0
+Darth Vader,Ozzel,Undirected,340,,2,0
+Darth Vader,Needa,Undirected,341,,1,0
+Darth Vader,Lando,Undirected,342,,4,0
+Darth Vader,Han,Undirected,343,,2,0
+Darth Vader,Luke,Undirected,344,,7,0
+Darth Vader,Jerjerrod,Undirected,345,,1,0
+Luke,Camie,Undirected,346,,2,0
+Luke,Biggs,Undirected,347,,4,0
+Luke,Leia,Undirected,348,,26,0
+Luke,Han,Undirected,349,,43,0
+Luke,Dodonna,Undirected,350,,1,0
+Luke,Gold Leader,Undirected,351,,1,0
+Luke,Wedge,Undirected,352,,4,0
+Luke,Red Leader,Undirected,353,,3,0
+Luke,Red Ten,Undirected,354,,1,0
+Luke,Dack,Undirected,355,,3,0
+Luke,Zev,Undirected,356,,1,0
+Luke,Lando,Undirected,357,,6,0
+Luke,Bib Fortuna,Undirected,358,,1,0
+Luke,Admiral Ackbar,Undirected,359,,1,0
+Luke,Rey,Undirected,360,,1,0
+Camie,Biggs,Undirected,361,,2,0
+Biggs,Leia,Undirected,362,,1,0
+Biggs,Red Leader,Undirected,363,,3,0
+Biggs,Wedge,Undirected,364,,2,0
+Biggs,Gold Leader,Undirected,365,,1,0
+Leia,Motti,Undirected,366,,1,0
+Leia,Tarkin,Undirected,367,,1,0
+Leia,Han,Undirected,368,,69,0
+Leia,Red Leader,Undirected,369,,1,0
+Leia,Rieekan,Undirected,370,,4,0
+Leia,Derlin,Undirected,371,,1,0
+Leia,Lando,Undirected,372,,12,0
+Leia,Boushh,Undirected,373,,1,0
+Leia,Admiral Ackbar,Undirected,374,,2,0
+Leia,Poe,Undirected,375,,3,0
+Leia,Finn,Undirected,376,,3,0
+Leia,Snap,Undirected,377,,1,0
+Leia,Admiral Statura,Undirected,378,,2,0
+Leia,Rey,Undirected,379,,1,0
+Motti,Tarkin,Undirected,380,,2,0
+Han,Rieekan,Undirected,381,,3,0
+Han,Zev,Undirected,382,,1,0
+Han,Lando,Undirected,383,,12,0
+Han,Boushh,Undirected,384,,1,0
+Han,Admiral Ackbar,Undirected,385,,2,0
+Han,Rey,Undirected,386,,17,0
+Han,Finn,Undirected,387,,23,0
+Han,Bala-Tik,Undirected,388,,2,0
+Han,Maz,Undirected,389,,4,0
+Han,Poe,Undirected,390,,2,0
+Han,Snap,Undirected,391,,1,0
+Han,Admiral Statura,Undirected,392,,1,0
+Han,Captain Phasma,Undirected,393,,2,0
+Han,Kylo Ren,Undirected,394,,3,0
+Dodonna,Gold Leader,Undirected,395,,1,0
+Dodonna,Wedge,Undirected,396,,1,0
+Gold Leader,Wedge,Undirected,397,,1,0
+Gold Leader,Red Leader,Undirected,398,,1,0
+Wedge,Red Leader,Undirected,399,,3,0
+Wedge,Janson,Undirected,400,,2,0
+Wedge,Lando,Undirected,401,,6,0
+Wedge,Admiral Ackbar,Undirected,402,,1,0
+Red Leader,Red Ten,Undirected,403,,1,0
+Piett,Ozzel,Undirected,404,,2,0
+Piett,Needa,Undirected,405,,1,0
+Lando,Admiral Ackbar,Undirected,406,,5,0
+Admiral Ackbar,Poe,Undirected,407,,1,0
+Admiral Ackbar,Snap,Undirected,408,,1,0
+Admiral Ackbar,Finn,Undirected,409,,1,0
+Admiral Ackbar,Admiral Statura,Undirected,410,,1,0
+Lor San Tekka,Poe,Undirected,411,,3,0
+Lor San Tekka,Kylo Ren,Undirected,412,,1,0
+Lor San Tekka,Captain Phasma,Undirected,413,,1,0
+Poe,Kylo Ren,Undirected,414,,2,0
+Poe,Captain Phasma,Undirected,415,,1,0
+Poe,Finn,Undirected,416,,11,0
+Poe,Snap,Undirected,417,,2,0
+Poe,Admiral Statura,Undirected,418,,1,0
+Poe,Ello Asty,Undirected,419,,3,0
+Poe,Niv Lek,Undirected,420,,2,0
+Poe,Jess,Undirected,421,,2,0
+Poe,Yolo Ziff,Undirected,422,,1,0
+Kylo Ren,Captain Phasma,Undirected,423,,1,0
+Kylo Ren,General Hux,Undirected,424,,5,0
+Kylo Ren,Lieutenant Mitaka,Undirected,425,,2,0
+Kylo Ren,Snoke,Undirected,426,,2,0
+Kylo Ren,Rey,Undirected,427,,4,0
+Kylo Ren,Finn,Undirected,428,,2,0
+Captain Phasma,Finn,Undirected,429,,3,0
+Captain Phasma,General Hux,Undirected,430,,1,0
+Finn,Rey,Undirected,431,,29,0
+Finn,Bala-Tik,Undirected,432,,1,0
+Finn,Maz,Undirected,433,,2,0
+Finn,Snap,Undirected,434,,1,0
+Finn,Admiral Statura,Undirected,435,,1,0
+Unkar Plutt,Rey,Undirected,436,,2,0
+Rey,Bala-Tik,Undirected,437,,1,0
+Rey,Maz,Undirected,438,,2,0
+General Hux,Lieutenant Mitaka,Undirected,439,,1,0
+General Hux,Snoke,Undirected,440,,3,0
+General Hux,Colonel Datoo,Undirected,441,,1,0
+Snap,Admiral Statura,Undirected,442,,1,0
+Snap,Jess,Undirected,443,,1,0
+Yolo Ziff,Niv Lek,Undirected,444,,1,0
+Yolo Ziff,Jess,Undirected,445,,1,0
+Yolo Ziff,Ello Asty,Undirected,446,,1,0
+Ello Asty,Niv Lek,Undirected,447,,2,0
+Ello Asty,Jess,Undirected,448,,2,0
+Jess,Niv Lek,Undirected,449,,2,0
