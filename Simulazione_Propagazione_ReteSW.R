@@ -34,7 +34,7 @@ for (i in 2:length(nodes$Label)) {
   # Genero numeri casuali per determinare se i nodi vicini vengono infettati
   nuovi_infetti <- sample(nodi_vicini, size = sum(rbinom(length(nodi_vicini), 1, prob_infezione)), replace = FALSE)
   
-  # Aggiorna lo stato dei nodi nella simulazione
+  # Aggiorno lo stato dei nodi nella simulazione
   risultati[nuovi_infetti] <- 1
 }
 
