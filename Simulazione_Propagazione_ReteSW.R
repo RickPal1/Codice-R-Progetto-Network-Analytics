@@ -18,7 +18,7 @@ V(rete)$attributi <- attributi_personaggi$attributi[match(V(rete)$name, attribut
 
 
 
-# Simulo l'effetto di propagazione utilizzando il modello SI (Susceptible-Infectious)
+# Simulo l'effetto di propagazione utilizzando il modello SI (Susceptible-Infected)
 
 nodo_iniziale <- sample(V(rete), 1)  # Imposto un nodo iniziale per l'effetto di propagazione
 risultati <- numeric(length(V(rete)))
